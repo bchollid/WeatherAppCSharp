@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5mYAnHVGvcnMJzQjqN3VAvHl16x/OeutW8KXzQQZXANAZmpUm4Xyasxf9HDybpEVRx39qPHHKNrqm6AU6EBjxw==",
+  "success": true,
+  "projectFilePath": "/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/brandonholliday/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

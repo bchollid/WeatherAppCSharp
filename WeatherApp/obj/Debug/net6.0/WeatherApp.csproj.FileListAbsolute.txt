@@ -1,0 +1,17 @@
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/bin/Debug/net6.0/WeatherApp
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/bin/Debug/net6.0/WeatherApp.deps.json
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/bin/Debug/net6.0/WeatherApp.runtimeconfig.json
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/bin/Debug/net6.0/WeatherApp.dll
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/bin/Debug/net6.0/WeatherApp.pdb
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/obj/Debug/net6.0/WeatherApp.csproj.AssemblyReference.cache
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/obj/Debug/net6.0/WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/obj/Debug/net6.0/WeatherApp.AssemblyInfoInputs.cache
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/obj/Debug/net6.0/WeatherApp.AssemblyInfo.cs
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/obj/Debug/net6.0/WeatherApp.csproj.CoreCompileInputs.cache
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/obj/Debug/net6.0/WeatherApp.csproj.CopyComplete
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/obj/Debug/net6.0/WeatherApp.dll
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/obj/Debug/net6.0/refint/WeatherApp.dll
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/obj/Debug/net6.0/WeatherApp.pdb
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/obj/Debug/net6.0/WeatherApp.genruntimeconfig.cache
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeatherApp/WeatherApp/obj/Debug/net6.0/ref/WeatherApp.dll
